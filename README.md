@@ -2,8 +2,11 @@
 
 <img title="GooberLego" alt="GooberLego" src="https://imgur.com/qKBPHPX.png" style="width:64px;height:64px">
 
+Open Source repo for GooberBlox, all source is subject to change and is WIP and should only be used as a reference.
 
-© Copyright MathMark825 & Rio, 2024-2025
+# What is GooberBlox?
+GooberBlox is a Private Server for a widely successful MMO game.
 
-
-Copying, spreading or reproduction of this source is **strictly** prohibited. Breach of this may incur serious disciplinary action, up to and including legal action.
+# Credits
+- MathMark825
+- Rio
