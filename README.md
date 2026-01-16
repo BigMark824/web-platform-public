@@ -13,3 +13,6 @@ GooberBlox is a Private Server for a widely successful MMO game.
 # Credits
 - MathMark825
 - Rio
+
+# Special Thanks
+- [Kyle](https://github.com/kylegg) Providing the modified RouteCompiler and InsensitiveRequest class
